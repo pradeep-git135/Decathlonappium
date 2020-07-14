@@ -8,8 +8,6 @@ class Login:
     nxtbtn = "com.evamall.evacustomer:id / next"
     nxtbtn = "com.evamall.evacustomer:id / next"
     finishbtn = "com.evamall.evacustomer:id / next"
-   # phone / email = "com.evamall.evacustomer:id / edtPhoneEmail"
-   # getotp = (new TouchAction(driver)).tap(502, 1833).perform()
 
     def allow_access(self):
         print("entered the allow_access fxn")
